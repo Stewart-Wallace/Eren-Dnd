@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "1df8cb7d703099c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4e5560b6da3c337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdad4acbfd506290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fey Realm/Fey Realm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "347175ec92948313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fey Realm/Fey Realm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a15204c7c7280a1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fey Realm/Fey Realm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77f8fc6d6d5ab0ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fey Realm/Fey Court.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5447f4a4ce3952ca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0364075da15ccb78",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce5fce3efaed94b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6904b9661b1f0f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50ecd1bf3b522a3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f9fac2eec74d24b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6032aadaf741127",
+    "type": "split",
+    "children": [
+      {
+        "id": "f69949f908be48e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "529dca5f69c1a665",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32f47b12dcd75e95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f194b4a8b9e68e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43a0d85f4c4cc05b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5447f4a4ce3952ca",
+  "lastOpenFiles": [
+    "Fey Realm/Divine Court.md",
+    "Fey Realm/Fey Court.md",
+    "Fey Realm/Fey Realm.md",
+    "Fey Realm/Fey Wild.md",
+    "Untitled 1.md",
+    "Template/Gilbert template.md",
+    "Template/Plane.md",
+    "Template/Organisations.md",
+    "Template/NPC.md",
+    "Template/Monster.md"
+  ]
+}

@@ -1,0 +1,1 @@
+The Divine Court is populated with Dieties beyond the corporial world. Some little themselves  by embodying a chosen vessel. But the person who they embody is all but erased by the posession.
