@@ -1,0 +1,1 @@
+Ophelia is a tall elven woman, that met Kai in an alleyway during the fire in [[Frostalon]]. She is a powerful wizard especially in the school of illusion. while working for the [[Cornelius Foundation]] she used the code name Tham.

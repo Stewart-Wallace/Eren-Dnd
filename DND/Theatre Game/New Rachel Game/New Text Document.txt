@@ -1,0 +1,48 @@
+Merchant's Pearl/Peril
+
+Black Borough															Red Cape
+
+The Black Borough deals with the imports from many of the ports.								The Redcape is an area of the city with reasonable guards, that uphold the law and
+The guard are in the palm of the Merthil Family, either owned or								are respectful to those in trouble. Often times people will escape from the Amber
+bribed the guards are corrupt and spend most of their time 									Markets to the Red Cape for a lesser punishment for their crimes. The province is 
+protecting the family's property and patrons.											quiet but for political posters and red banners.
+
+	Inns					Ale	Wine	Bed	Food							Inns				Ale	Wine	Spirits		Bed	Food
+		Anker's Rest	(M)		3sp	3sp	4sp	1sp								Marisha's Coze		5sp	5sp	3sp		1gp	2sp
+		Crow's Opinion	(M)		3sp	3sp	5sp	1sp								Snuggle Bug's		6sp	4sp	3sp		1gp	2sp
+		Leonard's			4sp	4sp	5sp	1sp		(Cleric in basement)			Shops
+		Sickly Child			3sp	3sp	4sp	1sp								Jerry's Jeneral Junk	
+		Medusa's (new)			3sp	2sp	3sp	2sp								Potter's Potions
+																	Magical Inquisitor
+	Pleasure Houses			(M)	Night	Info										City Forge
+		Thatcher's Whores	(M)	6sp	3sp										Blacksmith #2
+		The Palace of Pleasure	(M)	7sp	3sp									Politics
+		Frenko's			1gp	5sp		(Gambling)							Darius is the political leader of the cape. He rules bevenenantly but he
+		Thussle's Tickle	(M)	7sp	3sp										spends most of his time dealing with the Amber Markets and fending off would-
+		Maiden's Arse			1gp	1gp										be usurpers. Lyndsay Merthil is gunning for the position of leader and doing
+		Buckled Bottom		(M)	7sp	3sp										much to excersize his power.
+		Thatcher's Moore	(M)	8sp	3sp
+		Cock Goblins Inc.	(M)	7sp	3sp
+	Shops
+		Merthil's Wears		(M)
+		Dylan's
+		General Store		(M)
+	Merthil Family
+		The family own much of the Black Borough. They trade in fish, paper, and sugar on the surface. 
+		Behind the doors of their many establishments the have countless sources of income, from 
+		illegal weapon trading to drug and human trafficing. They have cemented their power by owning 
+		the mercanaries that run the guards in the province.
+
+		Grandfather 		Godfrey
+		Grandmother		Rose
+		Leader			Leonitus 
+		Wife			Suzera
+		Brother 		Hellop
+		Sister 			Helen
+		Son I			Lyndsay
+		Son II			Garen
+		Daughter		Cassandra
+		
+Amber Market
+
+Golden Crest

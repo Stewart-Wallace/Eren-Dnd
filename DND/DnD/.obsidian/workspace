@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "26915640b323d93b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c53682eb3cf72a5f",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Attatchements/Pasted image 20211124195342.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "383a726973aa36c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5ef842c34056214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617f0545023e9be4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a194248a815507f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "meer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "019705ba751318bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff43eaa9d2dadb2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9acf7f1aeab63b05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Attatchements/Pasted image 20211124195342.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c53682eb3cf72a5f",
+  "lastOpenFiles": [
+    "Attatchements/Pasted image 20211124195342.png",
+    "Attatchements/Pasted image 20211209122502.png",
+    "Attatchements/Pasted image 20211209122505.png",
+    "Attatchements/Pasted image 20211124200331.png",
+    "Attatchements/Pasted image 20211124200203.png",
+    "Attatchements/Pasted image 20211124200031.png",
+    "Attatchements/Pasted image 20211124195840.png",
+    "Attatchements/Pasted image 20211124195802.png",
+    "Attatchements/Pasted image 20211124195548.png",
+    "Linch Family.md"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Places",
+      "color": {
+        "a": 1,
+        "rgb": 686901
+      }
+    },
+    {
+      "query": "path:Characters/Individuals",
+      "color": {
+        "a": 1,
+        "rgb": 9392896
+      }
+    },
+    {
+      "query": "path:Characters/Players",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Characters/Organisations",
+      "color": {
+        "a": 1,
+        "rgb": 16762880
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.06348314606742,
+  "lineSizeMultiplier": 3.82735042735043,
+  "collapse-forces": false,
+  "centerStrength": 0.41025641025641,
+  "repelStrength": 9.23076923076923,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.38230109687700714,
+  "close": true
+}

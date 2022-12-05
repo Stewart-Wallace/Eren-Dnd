@@ -1,0 +1,2 @@
+# Pethra
+Pethra is a content made of two large islands and a plethora of tiny archipelagos [[Leviland]] and [[Parthol]] form the majority of Pethra. While pirates and slaves come from the archipelagos [[Leviland]] and [[Parthol]] distance themselves from the trade that serves only to besmirch the region but they do not distance them-selves from the coin that comes from such practices.

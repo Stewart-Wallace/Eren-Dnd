@@ -1,0 +1,1 @@
+Juliana is a conjuration specialist. She worked for [[The Stewards of the Ether]] for some time but after being repromanded for her conduct in the field she quit and was hired by the [[Cornelius Foundation]] with the fake name Freeya.

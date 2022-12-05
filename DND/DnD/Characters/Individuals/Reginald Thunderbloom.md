@@ -1,0 +1,3 @@
+Thunderbloom is known to be very wealthy and an incredible fighter, having resolved historical diplomatic incidents, from [[The Iron North Up-Rising]] to international relations with [[Menthria]], with firm diplomatic action and a firmer fist. He is revered from coast to coast of [[The Theatre]], but unfortunately this decadence and reverence is not extended to the defenders.
+
+![[Pasted image 20211124195548.png]]

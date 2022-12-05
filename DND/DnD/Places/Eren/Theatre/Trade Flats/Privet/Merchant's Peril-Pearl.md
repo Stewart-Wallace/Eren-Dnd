@@ -1,0 +1,2 @@
+Merchant's Pearl is the arcane gem of the theatre. Placed in the perfect position for trade Merchant's Pearl attracts traiders from all over the world to trade magical items. Unfortunately the wealth of the city does not decend down the hill and the people that live by the docks do not bask in the wealth of the city. The city is placed to capitalise on the narrow passing splitting [[Waters#The Great Ocean]] to the [[Merchant's Waters]], called the [[Waters#Merchant's Choke]].
+![[Merchant's Pearl Fresh.png]]

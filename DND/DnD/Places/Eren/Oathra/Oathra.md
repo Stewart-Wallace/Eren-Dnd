@@ -1,0 +1,2 @@
+# Oathra
+Oathra is the leading continent in technology at the current setting the internal combustion engine is on the verge of creation and their inventions are exported around the world for those that can pay the coin.

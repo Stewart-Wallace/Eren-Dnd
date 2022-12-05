@@ -1,0 +1,2 @@
+# Menthria
+Menthria is a wild place. The lands of Menthria are steeped in tale and wars, kings rose and fell there. Noblemen ruled the beautiful countryside and wealth bejeweled the cultured that lived on these lands. [[The Empire of Menthria]] invaded much of the world many centuries ago, concurring the entirety of what is now the [[The Theatre]] and [[Pethra]]. Mentherians brought cruelty as they invaded,they enslaved the local population but built architecture that lasts till today, the grandeur of which overshadows their expansive tendencies, in some eyes.

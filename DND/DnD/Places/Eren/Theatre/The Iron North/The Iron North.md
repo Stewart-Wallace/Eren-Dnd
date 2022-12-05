@@ -1,0 +1,5 @@
+# The Iron North
+
+The Iron North of [[The Theatre]] are a group of nation states that see themselves culturally separate from the rest of [[The Theatre]]. The states in the Iron North are mostly agrarian with colder climates. Some, to show allegiance with an independent Iron North wear iron nails that rust over time showing your devotion to the concept of a separatist nation.The culture of The Iron North involve a meat heavy diet, generally hunted on the land. Most of the settlements within the region are no larger than 400 people and such the guard presence in the more remote places is next to nothing, further weakening [[The Theatre]]’s grasp on the peoples. A key component to The Iron North’s way of life is The Theatre’s law to allow people’s of any race to live freely within the region. This pillar of the people’s mentality goes beyond law, and many will open their doors to individuals of less represented races, like Loxodons, Tabaxi, Aarakocras and the like.
+
+The organisations present in The Iron North range in size, there are some thatcan be found all over Eren and others specific to the north.

@@ -1,0 +1,2 @@
+# Nectal
+Nectal is the most barbaric of the continents made up mostly of minotaurs, tortles, loxdon, and lyconthropes, [[The Plains of Nectal]] are home to many tribes that worship a nomadic, warring life style coupled with the devout following of local deities. 

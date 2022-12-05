@@ -1,0 +1,4 @@
+# Gerald Smith
+The Baron controls much of the trade through [[Emberhill]] and tentatively fuels the separatist movement while not making such a stir as to lose the vote of the unionists. He is a greatly revered [[Regents|Regent]] and has claimed many freedoms for [[Aspen]] as a region. Years ago heavy taxes were placed on alcohol crossing borders and with the scarce arable land in the cold, this tax was most heavily felt by the [[Aspen]] people. The Baron famously came to an arrangement with [[The Theatre]] to get an exception to this tax for much of [[The Iron North]]. Additionally he has successfully seen funding projects to protect [[Roads#The Icy Way]] from natural degradation.
+
+![[Pasted image 20211124195436.png]]

@@ -1,0 +1,1 @@
+Tarnall, or Tarnell as some of the notes in the disocrd says, is a well connected soldier in [[The Stout Defenders]]. He took a job with the [[Cornelius Foundation]] and since then has gotten a flavour for the money one can earn working for a private organisation.
